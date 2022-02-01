@@ -1,5 +1,5 @@
 # techvibes challenge
-access the login page on `http://localhost:3000/login` and the dashboard on `http://localhost:3000/dashboard`
+access the login page on `http://localhost:port/login` and the dashboard on `http://localhost:port/dashboard`
 
 ## Install Dependencies
 Run `npm install` to get the depencies 
