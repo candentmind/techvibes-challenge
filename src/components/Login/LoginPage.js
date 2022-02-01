@@ -18,7 +18,7 @@ const Card = styled.div`
   padding: 2rem;
   border-radius: 1.5em;
   background-color: #d4aad8;
-  border-bottom-right-radius: 6.5em;
+  border-bottom-right-radius: 7em;
   position: relative;
 
   :after {
