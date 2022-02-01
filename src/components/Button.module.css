@@ -1,0 +1,19 @@
+.button {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.7rem 1.3rem;
+  border: 1px solid #7b4bff;
+  background-color: #7b4bff;
+  color: white;
+  font-weight: bold;
+  border-radius: 1.3em;
+  margin-bottom: 0.3em;
+}
+
+@media (min-width: 530px) {
+  .button{
+    width: initial;
+    margin-left: 1rem;
+    cursor: pointer;
+  }
+}
